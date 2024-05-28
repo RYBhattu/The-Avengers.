@@ -1,0 +1,73 @@
+.gro{
+    color: #BAB29B;
+}
+.oot{
+    color:#F7C533;
+}
+.dr{
+    color:hsl(355, 89%, 26%);
+}
+.str{
+    color:rgb(21, 36, 80) ;
+}
+.i{
+    color:#440000 ;
+}
+.love{
+    color: #998307;
+}
+.u{
+    color:#55358D ;
+}
+.x{
+    color: #FA2A55;
+}
+.t{
+    color:#0169F7 ;
+}
+.h{
+    color: #B6860F;
+}
+.a{
+    color:#FA0014 ;
+}
+.n{
+    color:#B90FD2 ;
+}
+.o{
+    color: #0EAD4D;
+}
+.s{
+    color:#B75529; 
+}
+.hu{
+    color: hsla(120, 100%, 25%, 0.644);
+}
+.sma{
+    color:hsla(0, 81%, 27%, 0.426) ;
+}
+    
+.Wa{
+    color:#AA3B2E ;
+}
+.wi{
+    color: hsl(354, 80%, 20%);
+}
+img{
+    height: 200px;
+    width: 200px;
+    border-radius: 8px;
+}
+section{
+    padding: 20px;
+    height: 300px;
+    margin: 20px;
+    background-color: rgba(160, 181, 25, 0.181);
+    border-radius: 8px;
+    box-shadow: 40px brown;
+    text-align: center;
+}
+body{
+    background-color: rgba(255, 240, 245, 0.811);
+    align-content: center;
+}
